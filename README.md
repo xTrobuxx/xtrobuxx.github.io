@@ -1,1 +1,2 @@
-# xtrobuxx.github.io
+# CCGEN Edited By Trobuxx
+· Funciona mediante bins
